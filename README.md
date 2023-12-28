@@ -1,1 +1,2 @@
-# The website is under maintenance and will be down for the next few hours
+# anytimeankit.github.io
+This is a straightforward website that redirects to an AI assistant page for KelloggAI.com
